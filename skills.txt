@@ -1,0 +1,15 @@
+
+terminal
+git
+JSON
+Service-client arcitecture
+Postman
+Jmeter
+Agile tecnologies
+HTML
+Testing design
+Jira
+SDLS
+WEB testing
+Mobile testing
+SQL
